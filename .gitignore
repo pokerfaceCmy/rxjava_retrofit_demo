@@ -1,3 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Android template
 # Built application files
 *.apk
 *.ap_
@@ -63,3 +65,8 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+screenMatch.properties
+.idea/
+app/src/test/
+app/src/androidTest/java/com/cmy/rxjavaandretrofitdemo/ExampleInstrumentedTest.java
