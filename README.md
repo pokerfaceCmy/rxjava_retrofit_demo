@@ -3,3 +3,7 @@
 
 详细信息请点击：
 https://www.jianshu.com/p/a79689b84ff1
+
+
+这个demo已经过时了，更优雅的方式请看
+https://github.com/pokerfaceCmy/arms
